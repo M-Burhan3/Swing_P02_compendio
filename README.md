@@ -2,11 +2,11 @@
 
 **SWING_P02_COMPENDIO**
 
-**Descripción**
+**-Descripción-**
 
 Este proyecto consiste en un programa desarrollado en Java Swing diseñado para la gestión y administración de reservas de un hotel.
 
-**Contenidos**
+**-Contenidos-**
 
 El repositorio contiene los siguientes directorios y archivos:
 - **Desarrollo**: Contiene el directorio con todo el código fuente del proyecto.
@@ -14,7 +14,7 @@ El repositorio contiene los siguientes directorios y archivos:
 - **Documentación técnica**: Contiene el Javadoc generado para el proyecto.
 - **Documentos**: Incluye el documento sobre usabilidad de la aplicación.
 
-**Desarrollo del proyecto**
+**-Desarrollo del proyecto-**
 
 La aplicación fue desarrollada utilizando:
 - **Lenguaje**: Java
@@ -23,9 +23,10 @@ La aplicación fue desarrollada utilizando:
 
 El proyecto cuenta con un diseño modular y está organizado en paquetes, cada uno representando una funcionalidad específica.
 
-**Despliegue** (como ejecutar la aplicación desde el ejecutable) 
+**-Despliegue-** (como ejecutar la aplicación desde el ejecutable) 
 
 **En Windows**
+
 Descargar el ejecutable desde el directorio *"ejecutable"* y hacer doble click en el archivo *"swing_p02_MuhammadFarmanBurhan"*
 
 **Desde línea de comandos**
@@ -33,17 +34,17 @@ Descargar el ejecutable desde el directorio *"ejecutable"* y hacer doble click e
 2. Navegar hasta el directorio *"ejecutable"*.
 3. Ejecutar el comando *"java -jar swing_p02_MuhammadFarmanBurhan.jar"*
 
-**Construido con**
+**-Construido con-**
 
 El proyecto ha sido creado y compilado desde el entrono de desarrollo Eclipse
 
-**Version**
+**-Version-**
 
 1.0
 
-**Autor**
+**-Autor-**
 
 Burhan Muhammad Farman
 
-**Licencia** 
+**-Licencia-** 
 Recursos adicionales: https://github.com/M-Burhan3/Swing_P02_compendio
