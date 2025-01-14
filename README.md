@@ -46,5 +46,6 @@ El proyecto ha sido creado y compilado desde el entrono de desarrollo Eclipse
 
 Burhan Muhammad Farman
 
-**-Licencia-** 
+**-Licencia-**
+
 Recursos adicionales: https://github.com/M-Burhan3/Swing_P02_compendio
